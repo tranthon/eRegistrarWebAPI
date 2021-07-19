@@ -1,5 +1,5 @@
 # eRegistrarWebAPI
-A Spring Web application, named "eRegistrarWebAPI", which is a RESTful WebAPI for your online Student Registration system for a University.
+A Spring Web application, named "eRegistrarWebAPI", which is a RESTful WebAPI for online Student Registration system for a University.
 
 4 REST APIs endpoints:
 
